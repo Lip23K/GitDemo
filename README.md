@@ -4,5 +4,7 @@
 GitDemo
 **GitDemo**
 *GitDemo*
-*zazzaz*
-*zzaa*
+git add README.md oder git add .//um changes zu aktualisieren
+git status
+git commit -m *changes*
+git push
